@@ -1,4 +1,4 @@
-*GitHub em reformulação*
+*GitHub em reformulação - Projetos privados estão sendo publicados e corrigidos*
 ## Prazer meu nome é Ranier Melo,
 Graduando em Ciência de Dados, 4° Período. Bacharel em Direito. Advogado Licenciado.
 
