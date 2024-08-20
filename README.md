@@ -1,16 +1,15 @@
-*GitHub em reformulação - Projetos privados estão sendo publicados e corrigidos*
-## Prazer meu nome é Ranier Melo,
-Graduando em Ciência de Dados, 4° Período. Bacharel em Direito. Advogado Licenciado.
+*GitHub under renovation - Private projects are being published, corrected and translated to english*
+## Pleasure, my name is Ranier Melo
+Undergraduate in Data Science, 5th Semester. Bachelor in Law. Licensed Lawyer
 
-Projetos individuais que estou envolvido:<br>
-  1. Modelos de Aprendizado de Máquina para auxílio no diagnóstico de Doença Pulmonar <br>
-        - Utilização de Machine Learning voltado a classificação, análise preditiva.<br>
-  2. Como a pobreza se manifesta no Território Brasileiro <br>
-        - Utilização de Machine Learning voltado a clusterização, análise descritiva.<br>
-  3. Modelagem para Ações do Banco Inter<br> 
-        - Utilização de modelagem estatística (séries temporais) para previsão de valor de ações.<br>
-
-Atualmente estou interessado em análise geoespacial e sua aplicação em ciência de dados.  
+Individual projects I am involved in::<br>
+  1.Machine Learning Models for aiding in the diagnosis of Pulmonary Disease <br>
+        - Utilizing Machine Learning for classification, predictive analysis.<br>
+  2. How Poverty Manifests in Brazilian Territory <br>
+        -Utilizing Machine Learning for clustering, descriptive analysis.<br>
+  3. Modeling for Banco Inter Stocks<br> 
+        - Utilizing statistical modeling (time series) for stock value prediction.<br>
+  
 
 Habilidades: <br>
 <code><img height="32" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="c"/></code>
