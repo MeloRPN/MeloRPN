@@ -2,11 +2,11 @@
 ## Pleasure, my name is Ranier Melo
 Undergraduate in Data Science, 5th Semester. Bachelor in Law. Licensed Lawyer
 
-Individual projects I am involved in::<br>
+Individual projects I am involved in:<br>
   1.Machine Learning Models for aiding in the diagnosis of Pulmonary Disease <br>
         - Utilizing Machine Learning for classification, predictive analysis.<br>
   2. How Poverty Manifests in Brazilian Territory <br>
-        -Utilizing Machine Learning for clustering, descriptive analysis.<br>
+        - Utilizing Machine Learning for clustering, descriptive analysis.<br>
   3. Modeling for Banco Inter Stocks<br> 
         - Utilizing statistical modeling (time series) for stock value prediction.<br>
   
